@@ -7,7 +7,7 @@ using namespace std;
 
 
 
-
+// fast exponentiation uses bitwise operations, with expo, instead of normal int operations
 ll MOD = 1e9 + 7;
 
 // Fast Exponentiation
