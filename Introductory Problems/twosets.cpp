@@ -74,6 +74,7 @@ void TwoSets(int n)
 // Driver Code
 int main()
 {
-    int n=7;
+    int n;
+    cin >> n;
     TwoSets(n);
 }
